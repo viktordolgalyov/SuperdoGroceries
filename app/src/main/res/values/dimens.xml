@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="padding_half">8dp</dimen>
+    <dimen name="padding_quarter">4dp</dimen>
+
+    <dimen name="product_image_size">56dp</dimen>
+    <dimen name="product_image_corners">100dp</dimen>
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="toolbar_action_size">32dp</dimen>
+</resources>
